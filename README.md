@@ -18,7 +18,6 @@
 
 2. Exploratory Data Analysis: Continuing Investigation and Deepening Insights into Variables
 
-
 ![image](https://github.com/user-attachments/assets/96e382d4-90fb-47f4-88c5-c52d606b9cb2)
 
 ![image](https://github.com/user-attachments/assets/7d2763a3-d9ee-43ab-ab71-a0c6635fa42b)
@@ -36,6 +35,22 @@
 ![image](https://github.com/user-attachments/assets/c8640dbd-1cd7-4c1f-9bd9-7d8518fa37ee)
 
 ![image](https://github.com/user-attachments/assets/f60d3fac-3ede-4152-b2d4-5c8c7ff392a9)
+
+3. Optimizing Revenue for Taxi Cab Drivers: A Hands-On Guide to Preparing, Creating, and Analyzing A/B Tests
+
+![image](https://github.com/user-attachments/assets/7a3329d1-2c68-4f37-b566-d272c04e18fa)
+
+![image](https://github.com/user-attachments/assets/a84ef03c-1a29-4595-a03e-b9196c634ba2)
+
+![image](https://github.com/user-attachments/assets/215ef199-2cc6-45fd-a1a5-48f9aea693e4)
+
+4. Demonstrating EDA and Multiple Linear Regression: Building and Evaluating Predictive Models
+
+![image](https://github.com/user-attachments/assets/0aa391f9-2e85-4b79-a900-b2dd4a32d745)
+
+![image](https://github.com/user-attachments/assets/9fdf7eb2-51b5-40c1-9521-b0c8a1a94d77)
+
+![image](https://github.com/user-attachments/assets/5eb6a092-1f54-4283-bb56-6a6f97942058)
 
 
 
