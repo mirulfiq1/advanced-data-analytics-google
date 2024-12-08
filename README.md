@@ -68,7 +68,29 @@
 
 ![image](https://github.com/user-attachments/assets/20e6d43b-9d9d-4996-8d32-570ea3442e92)
 
+5. Predicting Generous Tippers: A Revenue Optimization Model for Taxi Cab Drivers
 
+![image](https://github.com/user-attachments/assets/c77cb138-9193-4bb0-95d4-ff176fe86686)
+
+![image](https://github.com/user-attachments/assets/cf480a3a-29c7-4ae1-a1ab-ff8826274a32)
+
+![image](https://github.com/user-attachments/assets/83b55237-1296-4d8a-ab41-681121e10b7a)
+
+![image](https://github.com/user-attachments/assets/130214e5-d8e7-4b09-9235-d5627df59c7d)
+
+![image](https://github.com/user-attachments/assets/e3a1d7b0-5635-420c-bed5-25055f203cf5)
+
+![image](https://github.com/user-attachments/assets/892bf800-a82e-40bb-b59b-ab73c2167cb4)
+
+![image](https://github.com/user-attachments/assets/b857439e-9452-43c4-85e4-9e0db49e4f55)
+
+![image](https://github.com/user-attachments/assets/4513b645-9b78-4ee0-b27a-4da6c239d6cf)
+
+![image](https://github.com/user-attachments/assets/67f73818-43bc-40f6-8f50-c513a2c2b5d9)
+
+6. Predicting Employee Turnover: Insights for HR Decision-Making
+
+-----------------------------------------------------------------------------------------
 
 
 
