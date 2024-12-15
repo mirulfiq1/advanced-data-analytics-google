@@ -88,7 +88,7 @@
 
 ![image](https://github.com/user-attachments/assets/67f73818-43bc-40f6-8f50-c513a2c2b5d9)
 
-6. Classifiying Employee Turnover: Insights for HR Decision-Making
+6. Classifying Employee Turnover: Insights for HR Decision-Making
 
 -----------------------------------------------------------------------------------------
 
